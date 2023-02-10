@@ -1,0 +1,13 @@
+form{
+    display: grid;
+    grid-template-rows: auto;
+    grid-template-columns: 10vw 10vw;
+}
+
+body{
+    background: scroll radial-gradient(rgb(0,100,0), rgb(100,200,255));
+}
+
+
+
+    
