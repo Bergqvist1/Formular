@@ -8,5 +8,13 @@ body{
     background: scroll radial-gradient(rgb(0,100,0), rgb(100,200,255));
 }
 
+input{
+    border: 2px solid crimson;
+    border-radius: 1em;
+}
+
+input[type=submit]{
+    height: 2vh
+}
 
     
